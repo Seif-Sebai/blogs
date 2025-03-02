@@ -175,13 +175,37 @@ etc...
 
 If you're looking for a great video that explains *how to build a satellite* you can check The Efficient Engineer's video (just know that this video goes really in depth in everything satellite related, and we're merely interested in the security side of things which is roughly around 15:54 which covers the telemetry & communication part):
 <!-- <center> -->
-<iframe width="960" height="415" src="https://www.youtube-nocookie.com/embed/5voQfQOTem8?si=vwUkB3yx3Q9X2Syd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="960" height="415" src="https://www.youtube.com/embed/5voQfQOTem8?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/5voQfQOTem8?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/5voQfQOTem8/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
+
 <!-- </center> -->
 
 There's also Mark Rober's video for the very curious:
 
 <!-- <center> -->
-<iframe width="960" height="415" src="https://www.youtube-nocookie.com/embed/6KcV1C1Ui5s?si=6T4sdcxadL6kr8uv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/6KcV1C1Ui5s?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/6KcV1C1Ui5s?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/6KcV1C1Ui5s/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 <!-- </center> -->
 
 ---
@@ -361,7 +385,18 @@ And honestly I don't think I can say anything that [François Quiquet](#Francois
 
 
 But if you wish to dig deeper into the attack and the cooperation in general, they presented it at [CYSAT](https://cysat.eu/) which is one of the biggest european events tailored towards cybersecurity for satellites and the space industry in general:
-<iframe width="960" height="415" src="https://www.youtube.com/embed/sXGQWLJ8904?si=yPTNZ2stgPsGcmyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/sXGQWLJ8904?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/sXGQWLJ8904?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/sXGQWLJ8904/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 If you wish to read a blog that covers the attack chain in a more technical matter (although still limited to what we can gather from the slides) you can read [Hacking an On-Orbit Satellite: An Analysis of the CYSAT 2023 Demo by The Aerospace Corporation](https://medium.com/the-aerospace-corporation/hacking-an-on-orbit-satellite-an-analysis-of-the-cysat-2023-demo-ae241e5b8ee5)
@@ -389,7 +424,18 @@ You can check this [Master's Thesis by Matteo Calabrese called "Space Oddity: Sp
 
 And if you want a video explaining this attack vector you can watch [Matteo Calabrese](#Matteo-Calabrese)'s demo about it (presented at CYSAT 2023):
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/CSDz_fctrHg?si=19t_0r9GESW5Byj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/CSDz_fctrHg?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/CSDz_fctrHg?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/CSDz_fctrHg/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 
@@ -559,7 +605,18 @@ So let's hope these theoretical studies are well researched and analyzed before 
 ---
 You can watch the authors' video on it:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/H0v8p68BCtk?si=Yvhus5HULRCill7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/H0v8p68BCtk?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/H0v8p68BCtk?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/H0v8p68BCtk/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 The paper can also be found [here](https://netsec.ethz.ch/publications/papers/atc21-final594.pdf)
 and there's a github repo for those who want to reproduce the simulation:
@@ -596,7 +653,18 @@ There is a lot to Starlink: routers, user terminals, ground stations and space s
 And if you're interested more on how this whole Starlink Internet works you can watch this video
 Although It's VERY optional...
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/qs2QcycggWU?si=NIrRjWeFpHENuQYp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/qs2QcycggWU?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/qs2QcycggWU?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/qs2QcycggWU/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 And there's a lot of parts here that interconnect and a lot of researchers who have independently researched Starlink and contributed to making it more secure.
 
@@ -620,7 +688,18 @@ But, the most interesting research by far (and the main hack in this part) is do
 
 It can be roughly summarized in this 1 minute video by [Low Level](https://www.youtube.com/@LowLevelTV):
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/V2ndAlB9kpE?si=d9VoKQVsM1MopjKm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/V2ndAlB9kpE?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/V2ndAlB9kpE?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/V2ndAlB9kpE/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 and for the technical people out there:
 >The hack consists of exploiting a voltage fault injection to cause the firmware signature verification to fail leading to a root terminal.
@@ -628,7 +707,18 @@ and for the technical people out there:
 Anyone non-technical reading that would think It's just a quote taken from a sci-fi movie...
 
 But for my tech-savvy hackers out there, you can watch [the legend](#Lennert-Wouters)'s presentation about it from DEF CON / Blackhat (he presented at both and they're not so different from eachother):
-<iframe width="960" height="415" src="https://www.youtube.com/embed/myKs04lfuy8?si=eSrEtDdIOHtqAvd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/myKs04lfuy8?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/myKs04lfuy8?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/myKs04lfuy8/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 You can also find the relevant slides here: ["blackhat: Glitched On Earth by Lennert Wouters"](https://i.blackhat.com/USA-22/Wednesday/US-22-Wouters-Glitched-On-Earth.pdf)
 
@@ -701,11 +791,33 @@ And so, the Viasat incident response team was made on the fly and they tried to 
 
 
 <!-- info about the specific steps they took to troubleshoot, defend, and harden their system -->
-<iframe width="960" height="415" src="https://www.youtube.com/embed/qI_ICtX3Gm8?si=j1AU4Igp2j5ruHNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/qI_ICtX3Gm8?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/qI_ICtX3Gm8?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/qI_ICtX3Gm8/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 If you want to learn more about what Viasat learned from this attack, the investigation and digital forensics done by the NSA and the  logistical and criminal side of things, you can watch this talk:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/RdjthhBylMk?si=RHahIdFpfUxJ7jVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/RdjthhBylMk?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/RdjthhBylMk?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/RdjthhBylMk/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 ## VSAT HACKING - One Man Army
@@ -743,7 +855,18 @@ You can read the [Wireless Signal Injection Attacks on VSAT Satellite Modems Pap
 Which is provided alongside a video explaining it (although I advice watching the DEF CON presentation mentioned later instead): 
 
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/Fv1fz_ewV6s?si=XjNXMS_vAvCsiRKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/Fv1fz_ewV6s?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/Fv1fz_ewV6s?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/Fv1fz_ewV6s/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 <div style=" font-size:20px">
@@ -757,7 +880,18 @@ The attack was also presented at DEF CON by the mentioned authors titled `"Break
 
 They go even more in depth in their presentation at DEF CON:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/-pxmly8xeas?si=U37mQ-Lb6BqIT2oa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/-pxmly8xeas?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/-pxmly8xeas?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/-pxmly8xeas/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 And honestly this defcon presentation uncovers a lot of the things they didn't cover in that paper.
 Note: [relevant info about the DEF CON presentation can be found here: defcon_32_speakers#54510](https://defcon.org/html/defcon-32/dc-32-speakers.html#54510)
@@ -898,7 +1032,18 @@ Or at least if you do, I'm in no way shape or form associated with what you do &
 If you're interested in learning more about software defined radio
 do yourself a favor and watch this presentation by [Gerard de Jong](https://x.com/gddejong):
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/gMwciWchH3Q?si=cbsIhtjblM9IUcXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/gMwciWchH3Q?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/gMwciWchH3Q?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/gMwciWchH3Q/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 Here we're more interested in the [ADS-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) part mentioned around (28:28)
 
@@ -926,7 +1071,18 @@ Just imagine someone creating artificial "ghost" planes and all of them are call
 
 In fact, by using a Raspberry Pi you can pretty much spoof on all ADS-B traffic, [Angelina Tusboi](#Angelina-Tsuboi-Presentations-Courses-and-QnA’s) goes in depth into this in this DEF CON presentation:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/KytDyg5s-E8?si=kOhmzHIed4UgPefF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/KytDyg5s-E8?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/KytDyg5s-E8?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/KytDyg5s-E8/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 And you can check this [paper: Ghost in the Air(Traffic): On insecurity of ADS-B protocol and practical attacks on ADS-B devices](https://media.blackhat.com/bh-us-12/Briefings/Costin/BH_US_12_Costin_Ghosts_In_Air_WP.pdf) that goes more in depth into ADS-B and how it can be exploited.
 (It also references my favorite movie & show Ghost In The Shell <3)
@@ -937,7 +1093,18 @@ You can check references for more papers/research on SDR and ADS-B security by t
 <!-- TODO: add ref -->
 Note: There's also "ADS-C" that has been on the rise lately and there is a great presentation about it by [Martin Strohmeier](#Martin-Strohmeier)
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/vJWzTt2ANAQ?si=nCMifyMfp5zfQwT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/vJWzTt2ANAQ?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/vJWzTt2ANAQ?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/vJWzTt2ANAQ/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 
@@ -945,7 +1112,18 @@ Note: There's also "ADS-C" that has been on the rise lately and there is a great
 
 If you wish to go back in time and experience high latency internet connections that you're pirating from a foreign satellite, then I suggest you watch [Peter Fairlie](https://www.youtube.com/@peterfairlie2296)'s video about it:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/54DGCDpYvGA?si=p0057BCZLdMVttmD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/54DGCDpYvGA?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/54DGCDpYvGA?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/54DGCDpYvGA/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 
@@ -956,7 +1134,18 @@ Just thought I'd leave this part here to say that other types of satellite hacki
 mainly hacking in the sense of managing broadcast signals or interfering with dead satellites...
 
 This video presentation (from DEF CON 30) showcases how a hacking group called [shadytel](https://x.com/shadytel) was able to legally stream from a satellite in geostationary orbit (just before reaching its EOL back in 2020):
-<iframe width="960" height="415" src="https://www.youtube.com/embed/wQubk70g2wI?si=2xl9DwKW82sQlaFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/wQubk70g2wI?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/wQubk70g2wI?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/wQubk70g2wI/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 Here, [Karl Koscher (aka. supersat)](#Karl-Koscher) goes in depth into how he and his team hacked the [AnikF1R](https://en.wikipedia.org/wiki/Anik_(satellite)#Anik_F1_and_F1R) satellite and streamed footage from space.
 
@@ -976,7 +1165,18 @@ And if you wish to learn more about space jamming and satellite signal hijacking
 
 </center>
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/Ouyln7CeWJU?si=NIaMwhOu_az4jlEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/Ouyln7CeWJU?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/Ouyln7CeWJU?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/Ouyln7CeWJU/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 (And this blog is getting a bit too long hence I decided to just get it over with so I can publish it already...)
@@ -1009,7 +1209,18 @@ The talk was presented at [CCC (Chaos Communication Congress)](https://en.wikipe
 
 
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/KdTcd94pVlY?si=7VVIN9Hb_mCy193H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/KdTcd94pVlY?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/KdTcd94pVlY?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/KdTcd94pVlY/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 (mirror can be found [@media.ccc.de](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1) and [the deutsche version of this talk is available on YT](https://www.youtube.com/watch?v=Kus3mQ8PQTc&list=PL_IxoDz1Nq2YICxl-KtTHOjEwxIOIsPrs&index=214&ab_channel=media.ccc.de))
 
@@ -1066,7 +1277,18 @@ Although I didn't dig deeper into it here since It's kind of outdated in today's
 
 And you can check the authors' video about it, they even dig deeper into the various challenges that come with:
 
-<iframe width="960" height="415" src="https://www.youtube.com/embed/WQW4x_8rRY4?si=5Mg1p7hY2L4NcTQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="960" height="415" src="https://www.youtube.com/embed/WQW4x_8rRY4?autoplay=1" srcdoc="
+        <style>
+          * { padding: 0; margin: 0; overflow: hidden; }
+          html, body { height: 100%; }
+          img, span { position: absolute; width: 100%; top: 0; bottom: 0; margin: auto; }
+          span { height: 1.5em; text-align: center; font: 48px/1.5 sans-serif; color: white; text-shadow: 0 0 0.5em black; }
+        </style>
+        <a href=&quot;https://www.youtube.com/embed/WQW4x_8rRY4?autoplay=1&quot;>
+          <img src=&quot;https://img.youtube.com/vi/WQW4x_8rRY4/hqdefault.jpg&quot; alt=&quot;YouTube Video&quot;>
+          <span>▶</span>
+        </a>
+      " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" title="YouTube Video"></iframe>
 
 
 There's also the [Open Source Satellite programme](https://www.opensourcesatellite.org/) and they offer a free and open source version of their OBC (On Board Computer) just a year after the launch of the OSSat: [Github Link for the OSSAT OBC](https://github.com/Open-Source-Satellite/OSSAT_OBC_Dev_Board)

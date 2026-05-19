@@ -1,6 +1,6 @@
 ---
 title: Reversing keyboard's USBHID connection
-date: 2026-05-19 10:05:50
+date: 2026-05-19 10:05:52
 tags: 
     - Keyboard
     - Hacking

@@ -1,5 +1,5 @@
 ---
-title: Hacking Satellites & Everything In-Between
+title: Hacking Satellites and Everything In-Between ⭐
 date: 2025-03-02 11:05:50
 tags: 
     - Satellites
@@ -7,14 +7,18 @@ tags:
     - Security
 category:
     - Technology
+    - CYBERSEC
 permalink: /SAT/
+pinned: true
 ---
 
 <!-- THUMBNAIL -->
 
 
 ![](SAT/wallpaper.jpg)
-
+<head>
+    <meta name="darkreader-lock">
+</head>
 <!-- more -->
 
 
@@ -1613,7 +1617,7 @@ and leave the reader free to sail the high seas 🏴‍☠️
 [ADS-C Technical aspects and C Technical aspects and Implementation Status](https://www.icao.int/SAM/Documents/2010/SURAUTOSEM/15%20SITA_ADS%20C%20Technical%20Aspects%20and%20Implementation%20Status.pdf)
 
 
-## Section_2: whoami
+# last_section: whoami
 
 Now, I'm already used to IoT-device hacking; as in proficient when It comes to reversing firmware, exploiting binaries and scrolling through thousands of pages of datasheets... as for the astronomy and "science" part, I still have PTSD from Fourier Integrals and Maxwell's equations...
 

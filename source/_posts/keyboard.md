@@ -148,12 +148,11 @@ So basically:
 2.Device (keyboard) receives it
 3.Device (keyboard) updates internal HID state/output
 
-```
 packetName(size in bytes)
-+-----------------+-----------------+--------+--------+--------+--------+--------+--------+
-| bmRequestType(1)| bRequest(1)     | wValue(2)       | wIndex(2)       | wLength(2)      |
-+-----------------+-----------------+--------+--------+--------+--------+--------+--------+
-```
+|  bmRequestType   | bRequest  | wValue | wIndex | wLength |
+|  ----   | ----  | ---- | ---- | ---- |
+|  1 byte   | 1 byte  | 2 bytes | 2 bytes | 2 bytes |
+
 Where for SET_REPORT:
 
 ```
